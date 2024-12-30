@@ -453,6 +453,9 @@ padding: 40px 20px;
 }
 
 .testimonial {
+  background: url(../IMG/Pattern.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 40px 20px;
  width: 100%;
   justify-content: center;
@@ -1090,12 +1093,6 @@ padding: 40px 20px;
   justify-content: center;
 }
 
-.count .text-base  {
-  width: 100%; /* Atur lebar agar sesuai layar */
-  max-width: 200px; /* Maksimal lebar untuk memaksa teks menjadi dua baris */
-  word-wrap: break-word; /* Memaksa kata terpotong jika terlalu panjang */
-  white-space: normal; /* Membiarkan teks membungkus */
-}
 
 
 .counter {

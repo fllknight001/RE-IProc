@@ -410,10 +410,10 @@ padding: 40px 20px;
 
 
 .event-schedule {
-  padding: 50px 20px;
+  padding: 80px 20px;
   justify-content: center;
   margin: auto;
- 
+
 }
 
 
@@ -421,9 +421,6 @@ padding: 40px 20px;
   width: 100%;
   }
 
-  .content-event 
-  
-  
 
 
 .content-event {
@@ -444,10 +441,7 @@ padding: 40px 20px;
   margin: auto;
 
 }
-.line2 {
-  position: relative;
-  left: 60px;
-}
+
 .w-24 {
   position: relative;
   top: 50px;
@@ -455,6 +449,9 @@ padding: 40px 20px;
 }
 
 .testimonial {
+ background: url(../IMG/Pattern.svg);
+ background-repeat: no-repeat;
+ background-size: cover;
   padding: 40px 20px;
  width: 100%;
   justify-content: center;
@@ -1103,12 +1100,6 @@ padding: 40px 20px;
   justify-content: center;
 }
 
-.count .text-base  {
-  width: 100%; /* Atur lebar agar sesuai layar */
-  max-width: 200px; /* Maksimal lebar untuk memaksa teks menjadi dua baris */
-  word-wrap: break-word; /* Memaksa kata terpotong jika terlalu panjang */
-  white-space: normal; /* Membiarkan teks membungkus */
-}
 
 .counter {
   background: white;
