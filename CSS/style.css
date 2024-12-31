@@ -168,8 +168,18 @@ body {
     list-style: none;
 }
 
-.hero-button button {
+.hero-button {
   background-color: #005DB5;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+}
+
+.hero-button:hover {
+  background-color: #03335f;
+  cursor: pointer;
 }
 .hero {
   background-image: url('../IMG/background.png');
@@ -256,7 +266,6 @@ margin: auto;
 .slider::after {
   position: absolute;
   content: "";
-  height: 100%;
   width: var(--logo-width);
 }
 
@@ -442,7 +451,7 @@ padding: 40px 20px;
 
 }
 
-.w-24 {
+.font-procruitment .w-24 {
   position: relative;
   top: 50px;
   left: 480px;
@@ -527,6 +536,10 @@ padding: 40px 20px;
    margin: auto;
    
 } 
+
+.pro-transform .text-base {
+  text-transform: capitalize;
+}
 
 .section-footer {
  

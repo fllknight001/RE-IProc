@@ -168,8 +168,18 @@ body {
     list-style: none;
 }
 
-.hero-button button {
+.hero-button .btn {
   background-color: #005DB5;
+  
+}
+
+.hero-button .btn:hover {
+  background-color: #00376b;
+  
+}
+
+.hero-button {
+  text-transform: capitalize;
 }
 .hero {
   background-image: url('../IMG/background.png');
@@ -257,7 +267,6 @@ margin: auto;
 .slider::after {
   position: absolute;
   content: "";
-  height: 100%;
   width: var(--logo-width);
 }
 
@@ -446,7 +455,7 @@ padding: 40px 20px;
   position: relative;
   left: 60px;
 }
-.w-24 {
+.font-procruitment .w-24 {
   position: relative;
   top: 50px;
   left: 100%;
@@ -531,6 +540,11 @@ padding: 40px 20px;
    margin: auto;
    
 } 
+
+.pro-transform .text-base {
+  text-transform: capitalize;
+}
+
 
 .section-footer {
  
