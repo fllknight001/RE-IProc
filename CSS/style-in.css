@@ -242,64 +242,94 @@ width: 30%;
 }
 
 
-
-
-
-.logo-slider {
-display: flex;
-margin: auto;
-
+.slide-iproc {
+  margin: auto;
+  height: auto;
+  width: 100%;
+  padding: 20px 100px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ justify-content: center;
 }
-.slider {
-  max-width: 1200px;
-  width: 100vw;
-  /* height: 12rem; */
+
+.client1 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/bumnd.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+  
+}
+.client2 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/mining.min.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+  
+}
+.client3 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/finance.min.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+}
+.client4 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/manufaktur.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+}
+.client5 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/pemerintah.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+}
+.client6 {
+  background: linear-gradient(#ffffffde, #ffffffde), url(../IMG/telecommunication.min.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  padding: 25px 80px;
+  height: 100%;
+}
+
+.iproc-feature {
+  justify-content: center;
+  display: flex;
+  background-size: cover;
+  background-repeat: no-repeat;
+padding: 80px 20px;
+  margin: auto;
+}
+
+
+
+.card-iproc-1 {
+  height: auto;
   background-color: white;
-  display: flex;
-  align-items: center;
-  overflow: hidden;
-  padding: 40px;
+  width: 100%;
+  max-width: 550px;
+  text-decoration: none;
+}
+
+.card-iproc-2 {
+  height: auto;
+  background-color: #005DB5; 
+  text-decoration: none;
 }
 
 
 
-.slider::before,
-.slider::after {
-  position: absolute;
-  content: "";
-  width: var(--logo-width);
-}
-
-
-
-.slider ul.brands {
-  list-style: none;
-  width: var(--total-logo-width)  ;
-  display: flex;
-  animation: slideLeft 150s linear infinite;
-}
-ul.brands li.brand-logo {
-  width: var(--logo-width);
-  height: 100px;
-  font-size: 2rem;
-  text-align: center;
-  margin-left: 1rem ;
-}
-
-@keyframes slideLeft {
- 100% {
-  transform: translateX(calc(-100% /2));
- }
-}
-
-/* Menghentikan animasi saat hover pada logo */
-.logo-slider .brands:hover {
-  animation-play-state: paused;
-}
-
-.logo-slider .brands li:hover {
-  animation-play-state: paused; /* Pastikan animasi berhenti saat kursor ada di logo */
-}
 
 .feature {
   display: flex;

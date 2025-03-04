@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "inter" , serif;
+    box-sizing: border-box;
+}
+html, body {
+  overflow-x: hidden;
+}
+body {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; /* Atur align ke center */
+    justify-content: space-between; /* Atur distribusi jarak */
+    width: 100%;
+    max-width: 100% !important;
+    overflow: hidden; 
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0 auto; /* Untuk membuatnya tetap center */
+  width: 100%; /* Mengurangi lebar container menjadi setengah */
+ 
+   
+  }
+
+  .nav-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+
+  }
+  .nav-brand img {
+  width: 100%;
+
+  }
+  .p-2 {
+    padding: .5rem !important;
+}
+.mr-auto, .mx-auto {
+  margin-right: auto !important;
+}
+
+  img {
+    vertical-align: middle;
+    border-style: none;
+
+  }
+  .button-nav button {
+    background-color: #005DB5;
+  }
+ 
+  /* .navbar-collapse ul li a:hover {
+    background-color: #005eb544;
+    padding: 10px;
+
+  } */
+
+  .navbar-nav .nav-link {
+    justify-content: center;
+    color: #000;
+    font-weight: 500;
+    font-size: 13px;
+    gap: 10px;
+}
+
+.nav-item {
+  padding: 5px;
+  
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s ease;
+}
+
+.nav-link.active {
+  color: white;
+  background-color: #bfdbfe; /* Blue-100 */
+  border-radius: 8px;
+  font-weight: bold;
+}
+#navbar-hamburger {
+  transition: max-height 2s ease, opacity 0.5s ease; /* Durasi lebih panjang dan easing lebih halus */
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+}
+
+#navbar-hamburger.open {
+  max-height: 500px; /* Atur sesuai tinggi maksimal konten */
+  opacity: 1;
+}
+.navbar-nav {
+  position: relative;
+  left: -65%;
+  display: flex;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  justify-content: flex-start; /* Pastikan elemen berada di sebelah kiri */
+}
+
+  
+  .nav {
+    width: 100%; /* Navbar tetap full */
+    padding: 0 1rem; /* Padding yang sama untuk keseimbangan */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.hero {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding: 100px 20px;
+    width: 100%;
+}
+.cloud-content {
+    position: relative;
+    left: 15%;
+}
+
+.solve {
+    background-image: url(../IMG/Desktop\ -\ 2.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    padding: 80px 20px;
+    width: 100%;
+}
+
+.desk {
+    background-image: url(../IMG/Vector\ 3.svg);
+    margin: auto;
+    display: flex;
+    padding: 80px 20px;
+    width: 100%;
+    max-width: 1600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-container {
+    max-width: 1200px ;
+}
+.content-desk {
+    position: relative;
+    left: 20%;
+}
+
+.why-iproc {
+    margin: auto;
+    display: flex;
+    padding: 80px 20px;
+    width: 100%;
+    max-width: 1600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-content-1 {
+    position: relative;
+    top: 35%;
+}
+.card-content-2 {
+    position: relative;
+    top: 40%;
+}
+.card-content-3 {
+    position: relative;
+    top: 38%;
+}
+.card-content-4 {
+    position: relative;
+    top: 32%;
+}
+.img-why {
+    position: relative;
+    top: -20px;
+    left: -200px;
+}
+
+.feature {
+    margin: auto;
+    display: flex;
+    padding: 80px 20px;
+    width: 100%;
+    max-width: 1600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hidden-iproc {
+    margin: auto;
+    display: flex;
+    padding: 80px 20px;
+    width: 100%;
+    max-width: 1600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content-perbandingan {
+    width: 100%;
+}
+@media (max-width: 768px) {
+    .img-why {
+       display: none;
+    }
+    .content-desk {
+        position: relative;
+        left: 0%;
+        text-align: center;
+    }
+    .solve {
+        text-align: center;
+    }
+    .logo-iproc {
+        justify-content: center;
+
+    }
+    .hero {
+        text-align: center;
+    }
+    .cloud-content {
+        position: relative;
+        left: 0%;
+    }
+    
+}
+

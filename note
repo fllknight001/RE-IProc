@@ -1,0 +1,275 @@
+
+    <section class="request-iproc">
+      <div class="header-request flex justify-center items-center text-center  ">
+
+        <p class="text-xl sm:text-4xl md:text-4xl lg:text-4xl font-extrabold text-black">
+          Trusted by more than <span class="text-yellow-300">100+ </span>  companies 
+        </p>
+
+        <!-- <p class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold  text-gray-900 dark:text-white text-center px-4 sm:px-6 md:px-8"> 
+          Trusted by more 
+        </p>
+        <p class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold text-yellow-300 dark:text-yellow-400 text-center px-1 sm:px-2"> 
+          100+ 
+        </p>
+        <p class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold text-gray-900 dark:text-white text-center px-4 sm:px-6 md:px-8"> 
+          companies 
+        </p> -->
+        
+        
+      
+      </div>
+      
+      <div class="logo-slider">
+        <div class="slider">
+          <ul class="brands">
+                   <!-- <----Section Bumnd----->
+         <li class="brand-logo"><img src="IMG/iproc-client-vector/bumnd/1.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/10.jpg" alt=""></li>
+         <li class="brand-logo">     <img src="IMG/iproc-client-vector/bumnd/11.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/12.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/13.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/14.jpg" alt=""></li>
+         <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/15.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/16.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/17.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/18.jpg" alt=""></li>
+        <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/19.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/2.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/20.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/21.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/22.jpg" alt=""></li>
+        <li class="brand-logo"> <img src="IMG/iproc-client-vector/bumnd/23.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/24.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/25.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/26.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/27.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/28.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/29.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/30.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/31.jpg" alt=""></li>
+        <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/3.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/4.jpg" alt=""></li>
+        <li class="brand-logo">        <img src="IMG/iproc-client-vector/bumnd/5.jpg" alt=""></li>
+        <li class="brand-logo">        <img src="IMG/iproc-client-vector/bumnd/6.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/7.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/8.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/9.jpg" alt=""></li>
+                  <!-- <----Section energi dan pertambangan----->
+           <li class="brand-logo">   <img src="IMG/iproc-client-vector/energi dan pertambangan/1.jpg" alt=""></li>
+           <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/2.jpg" alt=""></li>
+             <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/3.jpg" alt=""></li>
+               <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/4.jpg" alt=""></li>
+                 <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/5.jpg" alt=""></li>
+                   <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/6.jpg" alt=""></li>
+                     <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/7.jpg" alt=""></li>
+                       <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/8.jpg" alt=""></li>
+                         <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/9.jpg" alt=""></li>
+                           <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/10.jpg" alt=""></li>
+                             <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/11.jpg" alt=""></li>
+                               <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/12.jpg" alt=""></li>
+                                 <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/13.jpg" alt=""></li>
+                                   <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/14.jpg" alt=""></li>
+                                     <li class="brand-logo">   <img src="IMG/iproc-client-vector/energi dan pertambangan/15.jpg" alt=""></li>
+                                       <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/16.jpg" alt=""></li>
+                                         <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/17.jpg" alt=""></li>
+                                           <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/18.jpg" alt=""></li>
+                                             <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/19.jpg" alt=""></li>
+                                               <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/20.jpg" alt=""></li>
+                                                 <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/21.jpg" alt=""></li>
+                                                   <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/22.jpg" alt=""></li>
+                                                     <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/23.jpg" alt=""></li>
+                                                       <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/24.jpg" alt=""></li>
+                                                         <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/25.jpg" alt=""></li>
+            <!-- <----Section keuangan dan bank----->
+            <li class="brand-logo">    <img src="IMG/iproc-client-vector/keuangan dan bank/1.jpg" alt=""></li>
+             <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/2.jpg" alt=""></li>
+               <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/3.jpg" alt=""></li>
+                 <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/4.jpg" alt=""></li>
+                   <li class="brand-logo">      <img src="IMG/iproc-client-vector/keuangan dan bank/5.jpg" alt=""></li>
+                     <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/6.jpg" alt=""></li>
+                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/7.jpg" alt=""></li>
+                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/8.jpg" alt=""></li>
+                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/9.jpg" alt=""></li>
+                             <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/10.jpg" alt=""></li>
+                               <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/11.jpg" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/12.jpg" alt=""></li>
+                                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/13.jpg" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/14.jpg" alt=""></li>
+                                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/15.jpg" alt=""></li>
+                                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/16.jpg" alt=""></li>
+                                           <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/17.jpg" alt=""></li>
+            <!-- <----Section manufaktur dan kontruksi----->
+            <li class="brand-logo">       <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/14.jpg" alt=""></li>
+             <li class="brand-logo">        <img src="img/iproc-client-vector/manufaktur dan konstruksi/15.jpg" alt=""></li>
+               <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/16.jpg" alt=""></li>
+                 <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/17.jpg" alt=""></li>
+                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/18.jpg" alt=""></li>
+                     <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/19.jpg" alt=""></li>
+            <!-- <----Section Pemerintah----->
+            <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (1).png" alt=""></li>
+             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (2).png" alt=""></li>
+               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (3).png" alt=""></li>
+                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (4).png" alt=""></li>
+                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (5).png" alt=""></li>
+                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (6).png" alt=""></li>
+                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (7).png" alt=""></li>
+                         <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (8).png" alt=""></li>
+                           <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (9).png" alt=""></li>
+                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (10).png" alt=""></li>
+                               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (11).png" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (12).png" alt=""></li>
+                                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (13).png" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (14).png" alt=""></li>
+                                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (15).png" alt=""></li>
+                                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (16).png" alt=""></li>
+                                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (17).png" alt=""></li>
+                                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (18).png" alt=""></li>
+                                               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (19).png" alt=""></li>
+            <!-- <----Section Telekomunisasi, Transportasi, dan Hiburan ----->
+            <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/1.jpg" alt=""></li>
+             <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/2.jpg" alt=""></li>
+               <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/3.jpg" alt=""></li>
+                 <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/4.jpg" alt=""></li>
+                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/5.jpg" alt=""></li>
+                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/6.jpg" alt=""></li>
+                       <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/7.jpg" alt=""></li>
+                         <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/8.jpg" alt=""></li>
+                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/9.jpg" alt=""></li>
+                             <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/10.jpg" alt=""></li>
+                               <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/11.jpg" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/20.jpg" alt=""></li>
+                                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/21.jpg" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/22.jpg" alt=""></li>
+                                       <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/23.jpg" alt=""></li>
+                                         <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/24.jpg" alt=""></li>
+                                           <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/25.jpg" alt=""></li>
+                                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/26.jpg" alt=""></li>
+                   <!-- <----Section Bumnd----->
+         <li class="brand-logo"><img src="IMG/iproc-client-vector/bumnd/1.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/10.jpg" alt=""></li>
+         <li class="brand-logo">     <img src="IMG/iproc-client-vector/bumnd/11.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/12.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/13.jpg" alt=""></li>
+         <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/14.jpg" alt=""></li>
+         <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/15.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/16.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/17.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/18.jpg" alt=""></li>
+        <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/19.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/2.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/20.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/21.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/22.jpg" alt=""></li>
+        <li class="brand-logo"> <img src="IMG/iproc-client-vector/bumnd/23.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/24.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/25.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/26.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/27.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/28.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/29.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/30.jpg" alt=""></li>
+        <li class="brand-logo">   <img src="IMG/iproc-client-vector/bumnd/31.jpg" alt=""></li>
+        <li class="brand-logo">    <img src="IMG/iproc-client-vector/bumnd/3.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/4.jpg" alt=""></li>
+        <li class="brand-logo">        <img src="IMG/iproc-client-vector/bumnd/5.jpg" alt=""></li>
+        <li class="brand-logo">        <img src="IMG/iproc-client-vector/bumnd/6.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/7.jpg" alt=""></li>
+        <li class="brand-logo">         <img src="IMG/iproc-client-vector/bumnd/8.jpg" alt=""></li>
+        <li class="brand-logo">  <img src="IMG/iproc-client-vector/bumnd/9.jpg" alt=""></li>
+                  <!-- <----Section energi dan pertambangan----->
+           <li class="brand-logo">   <img src="IMG/iproc-client-vector/energi dan pertambangan/1.jpg" alt=""></li>
+           <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/2.jpg" alt=""></li>
+             <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/3.jpg" alt=""></li>
+               <li class="brand-logo"> <img src="IMG/iproc-client-vector/energi dan pertambangan/4.jpg" alt=""></li>
+                 <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/5.jpg" alt=""></li>
+                   <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/6.jpg" alt=""></li>
+                     <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/7.jpg" alt=""></li>
+                       <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/8.jpg" alt=""></li>
+                         <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/9.jpg" alt=""></li>
+                           <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/10.jpg" alt=""></li>
+                             <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/11.jpg" alt=""></li>
+                               <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/12.jpg" alt=""></li>
+                                 <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/13.jpg" alt=""></li>
+                                   <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/14.jpg" alt=""></li>
+                                     <li class="brand-logo">   <img src="IMG/iproc-client-vector/energi dan pertambangan/15.jpg" alt=""></li>
+                                       <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/16.jpg" alt=""></li>
+                                         <li class="brand-logo">    <img src="IMG/iproc-client-vector/energi dan pertambangan/17.jpg" alt=""></li>
+                                           <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/18.jpg" alt=""></li>
+                                             <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/19.jpg" alt=""></li>
+                                               <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/20.jpg" alt=""></li>
+                                                 <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/21.jpg" alt=""></li>
+                                                   <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/22.jpg" alt=""></li>
+                                                     <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/23.jpg" alt=""></li>
+                                                       <li class="brand-logo">     <img src="IMG/iproc-client-vector/energi dan pertambangan/24.jpg" alt=""></li>
+                                                         <li class="brand-logo">      <img src="IMG/iproc-client-vector/energi dan pertambangan/25.jpg" alt=""></li>
+            <!-- <----Section keuangan dan bank----->
+            <li class="brand-logo">    <img src="IMG/iproc-client-vector/keuangan dan bank/1.jpg" alt=""></li>
+             <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/2.jpg" alt=""></li>
+               <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/3.jpg" alt=""></li>
+                 <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/4.jpg" alt=""></li>
+                   <li class="brand-logo">      <img src="IMG/iproc-client-vector/keuangan dan bank/5.jpg" alt=""></li>
+                     <li class="brand-logo">       <img src="IMG/iproc-client-vector/keuangan dan bank/6.jpg" alt=""></li>
+                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/7.jpg" alt=""></li>
+                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/8.jpg" alt=""></li>
+                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/9.jpg" alt=""></li>
+                             <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/10.jpg" alt=""></li>
+                               <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/11.jpg" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/12.jpg" alt=""></li>
+                                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/13.jpg" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/14.jpg" alt=""></li>
+                                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/15.jpg" alt=""></li>
+                                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/keuangan dan bank/16.jpg" alt=""></li>
+                                           <li class="brand-logo">         <img src="IMG/iproc-client-vector/keuangan dan bank/17.jpg" alt=""></li>
+            <!-- <----Section manufaktur dan kontruksi----->
+            <li class="brand-logo">       <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/14.jpg" alt=""></li>
+             <li class="brand-logo">        <img src="img/iproc-client-vector/manufaktur dan konstruksi/15.jpg" alt=""></li>
+               <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/16.jpg" alt=""></li>
+                 <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/17.jpg" alt=""></li>
+                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/18.jpg" alt=""></li>
+                     <li class="brand-logo">         <img src="IMG/iproc-client-vector/manufaktur dan konstruksi/19.jpg" alt=""></li>
+            <!-- <----Section Pemerintah----->
+            <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (1).png" alt=""></li>
+             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (2).png" alt=""></li>
+               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (3).png" alt=""></li>
+                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (4).png" alt=""></li>
+                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (5).png" alt=""></li>
+                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (6).png" alt=""></li>
+                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (7).png" alt=""></li>
+                         <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (8).png" alt=""></li>
+                           <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (9).png" alt=""></li>
+                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (10).png" alt=""></li>
+                               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (11).png" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (12).png" alt=""></li>
+                                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/pemerintah/government (13).png" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (14).png" alt=""></li>
+                                       <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (15).png" alt=""></li>
+                                         <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (16).png" alt=""></li>
+                                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (17).png" alt=""></li>
+                                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (18).png" alt=""></li>
+                                               <li class="brand-logo">        <img src="IMG/iproc-client-vector/pemerintah/government (19).png" alt=""></li>
+            <!-- <----Section Telekomunisasi, Transportasi, dan Hiburan ----->
+            <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/1.jpg" alt=""></li>
+             <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/2.jpg" alt=""></li>
+               <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/3.jpg" alt=""></li>
+                 <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/4.jpg" alt=""></li>
+                   <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/5.jpg" alt=""></li>
+                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/6.jpg" alt=""></li>
+                       <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/7.jpg" alt=""></li>
+                         <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/8.jpg" alt=""></li>
+                           <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/9.jpg" alt=""></li>
+                             <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/10.jpg" alt=""></li>
+                               <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/11.jpg" alt=""></li>
+                                 <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/20.jpg" alt=""></li>
+                                   <li class="brand-logo">         <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/21.jpg" alt=""></li>
+                                     <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/22.jpg" alt=""></li>
+                                       <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/23.jpg" alt=""></li>
+                                         <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/24.jpg" alt=""></li>
+                                           <li class="brand-logo">       <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/25.jpg" alt=""></li>
+                                             <li class="brand-logo">        <img src="IMG/iproc-client-vector/telekomunikasi, transportasi, dan hiburan/26.jpg" alt=""></li>
+          </ul>
+        </div>
+      </div>
+    
+
+    </section>
